@@ -1,0 +1,5 @@
+{
+  "name": "CoopCommand",
+  "description": "A smart dashboard and firmware generator for an ESP32-based automated chicken coop. Monitor status, simulate logic, and export Arduino code.",
+  "requestFramePermissions": []
+}
